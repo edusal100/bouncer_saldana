@@ -1,1 +1,3 @@
-First ReactJS Application - Bouncer E-commerce Application
+# Bouncer E-commerce Application
+
+First ReactJS application
