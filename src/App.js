@@ -1,12 +1,12 @@
 import './App.css';
-import WithSubnavigation from './Components/NavBar/WithSubnavigation';
+import Simple from './Components/NavBar/Simple';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <WithSubnavigation />
-      </header>
+      
+        <Simple />
+      
     </div>
   );
 }
