@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       
         <Simple />
-        <ItemListContainer/>
+        <ItemListContainer name="En construccion"/>
       
     </div>
   );

@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function ItemListContainer() {
+export default function ItemListContainer(props) {
   return (
-    <div>En construccion</div>
+    <div>{props.name}</div>
   )
 }
