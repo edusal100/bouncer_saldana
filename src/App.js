@@ -8,8 +8,7 @@ function App() {
   return (
     <div className="App">   
         <Simple />
-        <ItemListContainer name="En construccion"/>
-        <ItemCount stock="15" initial="1"/> 
+        <ItemListContainer/>
     </div>
   );
 }
