@@ -1,5 +1,4 @@
 import './App.css';
-import ItemCount from './Components/ItemCount';
 import ItemListContainer from './Components/ItemListContainer';
 import Simple from './Components/Simple';
 

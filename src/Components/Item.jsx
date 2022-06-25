@@ -4,6 +4,7 @@ import ItemCount from './ItemCount'
 
 
 export default function Item({item}) {
+    
 
     const IMAGE = item.image;
 
